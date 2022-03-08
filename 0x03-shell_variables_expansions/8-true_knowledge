@@ -1,1 +1,2 @@
-
+#!/bin/bash
+echo ((28+TRUEKNOWLEDGE))
